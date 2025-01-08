@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,7 +13,7 @@ sidebar:
     avatar: fqqdk_mosoly_negyzet.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: fqqdk@fqq.dk
+    email: fqqdk1@gmail.com
     phone: +36-30-664-12-91
     timezone: Europe/Budapest # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Hungarian
@@ -52,9 +52,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Software Developer with more than a decade of experience working in - and on a few occasion leading - agile developer teams
-      with a focus on strong Extreme Programming practices (test driven development, pair programming, refactoring, etc),
-      an affinity for investigating and fixing complex problems - even more if it concerns legacy code -, and good mentoring skills.
+      Senior Software Developer with more than a decade of experience working in - and on a few occasions leading - agile developer teams
+      with a strong focus on Extreme Programming practices (Test Driven Development, Pair Programming, Refactoring, etc),
+      an affinity for investigating and fixing complex problems - even more so if it concerns legacy code -, and good mentoring skills.
       In my volunteering work I have also collected valuable leadership and organizing skills.
 
 experiences:
@@ -72,9 +72,9 @@ experiences:
         time: 2021-07 - 2023-09
         company: SAP Emarsys, Budapest
         details: |
-          I spent the better part of two years on a multi-team effort to move all contact data (the most important and largest dataset) 
+          I spent two years on a multi-team effort to move all contact data (arguably the most important and one of the largest datasets of Emarsys) 
           from the legacy MySQL tables (across multiple MySQL instances) to the cloud (into Google Cloud Spanner and BigQuery)
-          using complex pipelines built of various technologies (from Logstash to Google Pub/Sub and Google Dataflow).
+          using complex pipelines built using various technologies (from Logstash to Google Pub/Sub and Dataflow).
           At the beginning of this period I was the Team Lead of the Core Application Scalability Team for a year.
       - role: PHP Developer
         time: 2014 - 2021
@@ -84,7 +84,8 @@ experiences:
           which is a marketing automation product within the Emarsys Suite, an overly complex system deeply entwined
           in a legacy PHP codebase of millions of LOC - running on equally complex clusters of servers -
           using (and sometimes abusing) technologies such as MySQL, MemCache and occasionally RabbitMQ.
-          We frequently had to optimize its performance or scale it various ways and monitor its performance we used the ELK stack (ElasticSearch, LogStash and Kibana).
+          We frequently had to optimize its performance or scale it various ways
+          and to monitor its performance we used the ELK stack (ElasticSearch, LogStash and Kibana).
           At the end of this period I was Team Lead of the AC team for 3 months.
 
 skills:
