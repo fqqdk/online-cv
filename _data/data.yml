@@ -67,7 +67,7 @@ experiences:
           My tasks are maintaining the legacy Automation Center, investigating the more complex issues concerning it 
           and helping the team continuously migrating its functionality to the new Automation platform -
           a mesh of services implemented in JavaScript (occasionally TypeScript) using Redis, MongoDB and GCP technologies (Pub/Sub, BigTable, BigQuery, etc)
-          while mentoring the more junior colleagues.
+          while mentoring junior colleagues.
       - role: Senior Software Developer
         time: 2021 - 2023
         company: SAP Emarsys, Budapest
