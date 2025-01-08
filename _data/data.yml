@@ -64,29 +64,29 @@ experiences:
         time: 2023 - Present
         company: SAP Emarsys, Budapest
         details: |
-          As a Senior Software Developer my tasks were mentoring the more junior colleagues in the ways of the legacy Automation Center,
-          investigating the more complex issues concerning it, and helping the team continuously migrating functionality away from it
-          to the new Automation product - a service oriented mesh of services implemented in JavaScript (occasionally TypeScript)
-          using Redis, MongoDB and GCP technologies (Pub/Sub, BigTable, BigQuery, etc).
+          My tasks are maintaining the legacy Automation Center, investigating the more complex issues concerning it 
+          and helping the team continuously migrating its functionality to the new Automation platform -
+          a mesh of services implemented in JavaScript (occasionally TypeScript) using Redis, MongoDB and GCP technologies (Pub/Sub, BigTable, BigQuery, etc)
+          while mentoring the more junior colleagues.
       - role: Senior Software Developer
         time: 2021 - 2023
         company: SAP Emarsys, Budapest
         details: |
-          I spent two years on a multi-team effort to move all contact data (arguably the most important and one of the largest datasets of Emarsys) 
-          from the legacy MySQL tables (across multiple MySQL instances) to the cloud (into Google Cloud Spanner and BigQuery)
-          using complex pipelines built using various technologies (from Logstash to Google Pub/Sub and Dataflow).
+          I partook in a multi-team effort to migrate all contact data (arguably the most important and one of the largest datasets of Emarsys) 
+          from the legacy MySQL tables (across multiple MySQL instances) to various cloud databases (Google Cloud Spanner, BigQuery)
+          using complex pipelines built on various technologies (from Logstash to Google Pub/Sub and Dataflow).
           At the beginning of this period I was the Team Lead of the Core Application Scalability Team for a year.
       - role: PHP Developer
         time: 2014 - 2021
         company: Emarsys Technologies, Budapest
         details: |
-          As a PHP Developer on the AC Team we maintained and implemented new features for the (now) legacy Automation Center,
-          which is a marketing automation product within the Emarsys Suite, an overly complex system deeply entwined
+          As a member of the AC team I helped maintain and implement new features for the (now) legacy Automation Center,
+          the marketing automation platform of Emarsys, an overly complex system deeply entwined
           in a legacy PHP codebase of millions of LOC - running on equally complex clusters of servers -
           using (and sometimes abusing) technologies such as MySQL, MemCache and occasionally RabbitMQ.
           We frequently had to optimize its performance or scale it various ways
           and to monitor its performance we used the ELK stack (ElasticSearch, LogStash and Kibana).
-          At the end of this period I was Team Lead of the AC team for 3 months.
+          At the very end of this period I was Team Lead of the AC team for 3 months.
 
 skills:
     title: Skills &amp; Proficiency
