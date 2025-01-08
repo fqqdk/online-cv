@@ -52,12 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior Software Developer with more than a decade of experience working in - and on a few occasion leading - agile developer teams
+      with a focus on strong Extreme Programming practices (test driven development, pair programming, refactoring, etc),
+      an affinity for investigating and fixing complex problems - even more if it concerns legacy code -, and good mentoring skills.
+      In my volunteering work I have also collected valuable leadership and organizing skills.
 
 experiences:
     title: Work experience
@@ -78,7 +76,7 @@ experiences:
           from the legacy MySQL tables (across multiple MySQL instances) to the cloud (into Google Cloud Spanner and BigQuery)
           using complex pipelines built of various technologies (from Logstash to Google Pub/Sub and Google Dataflow).
           At the beginning of this period I was the Team Lead of the Core Application Scalability Team for a year.
-      - role: Senior Software Developer
+      - role: PHP Developer
         time: 2014 - 2021
         company: Emarsys Technologies, Budapest
         details: |
