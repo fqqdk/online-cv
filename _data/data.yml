@@ -87,6 +87,12 @@ experiences:
           We frequently had to optimize its performance or scale it various ways
           and to monitor its performance we used the ELK stack (ElasticSearch, LogStash and Kibana).
           At the very end of this period I was Team Lead of the AC team for 3 months.
+      - role: Web Developer
+        time: 2011 - 2013
+        company: Ustream Hungary, Budapest
+        details: |
+          As a PHP Developer I have worked mainly on the backend of Ustream's Discovery Experience (the section of the website dedicated to finding new content to watch for the viewers.)
+          We used PHP, MySQL, MemCache (and sometimes JavaScript on the frontend.)
 
 skills:
     title: Skills &amp; Proficiency
